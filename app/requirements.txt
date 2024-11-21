@@ -1,0 +1,7 @@
+reflex==0.6.5
+numpy==1.23.5
+pandas==1.5.3
+nltk==3.6.7
+reflex==0.6.5
+aiohttp==3.8.5
+async-timeout==4.0.2
